@@ -28,5 +28,21 @@ Configuración en grupo del repositorio de git.
 
 De 10:30 a 11:15, planificación individual del ejercicio, lectura del ejercicio y busqueda de la teoria como apoyo. Comienzo del ejercicio.
 
+Creación de las Ramas:
+
+![image-20230201103211058](ImagenesDoc/image-20230201103211058.png)
+
+Invitación desde GitHub a colaborar con Saul y Pastrana
+
+![image-20230201104055350](ImagenesDoc/image-20230201104055350.png)
+
+
+
+Comprobación correcta de los pull request al crear las carpetas de los diferentes ejercicios
+
+![image-20230201105505102](ImagenesDoc/image-20230201105505102.png)
+
+
+
 
 
