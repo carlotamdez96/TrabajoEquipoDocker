@@ -18,7 +18,7 @@ Las ramas se llamarán EjercicioImagenes, EjercicioRedes...
 
 ### Daily
 
-Día 1/02: horas de 10:00-10:30
+Día 1  1/02: horas de 10:00-10:30
 
 Lectura de las instrucciones del proyecto- global
 
@@ -45,4 +45,22 @@ Comprobación correcta de los pull request al crear las carpetas de los diferent
 
 
 
+
+Día 2 03/02 horas:8:30-10:20
+
+Cada uno esta realizando las tareas que se le dieron el primer dia.
+
+Patrana : Docker imagenes
+
+Saul: Ejercicio 3 redes
+
+Carlota: Imagenes con Docker FIle
+
+Al finalizar las clases, a las 10:20:
+
+Carlota: Ha terminado la tarea de imagenes dockerFile
+
+Saúl: ha terminado la tarea de redes
+
+Pastrana: Ha terminado la primera parte de imagenes
 
