@@ -64,3 +64,16 @@ Saúl: ha terminado la tarea de redes
 
 Pastrana: Ha terminado la primera parte de imagenes
 
+
+
+
+
+Día 3 : 6/02/22 horas 13:35-14:30
+
+Seguimos con las tareas:
+
+Carlota: finalizó su parte y redacta el documento de la documentación
+
+Saúl: Ejercicio 4 Compose Comienza realizando el ejercicio
+
+Pastrana: Comenzando la parte 2 del Ejercicio de Imagenes
