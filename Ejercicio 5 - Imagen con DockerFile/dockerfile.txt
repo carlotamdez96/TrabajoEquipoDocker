@@ -1,0 +1,3 @@
+FROM httpd:2.4
+MAINTAINER Carlota Menendez Alvarez <carlotamenendez96@hotmail.es>
+COPY pagina /usr/local/apache2/htdocs
