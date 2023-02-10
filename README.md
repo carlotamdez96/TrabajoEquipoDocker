@@ -3,7 +3,7 @@
 > Saul Otero
 > Raul Pastrana
 
-[Documentación] (https://github.com/carlotamdez96/TrabajoEquipoDocker/blob/main/Documentacion/DocumentacionProyecto.md)
+[Documentación](https://github.com/carlotamdez96/TrabajoEquipoDocker/blob/main/Documentacion/DocumentacionProyecto.md)
 
 
 [Ejercicio 2 Almacenamiento](https://github.com/carlotamdez96/TrabajoEquipoDocker/blob/main/Ejercicio%202%20-%20Almacenamiento/Ejercicio%202%20Almacenamiento%20-%20Portainer.md)
