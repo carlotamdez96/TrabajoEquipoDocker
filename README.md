@@ -5,6 +5,8 @@
 
 [Documentación](https://github.com/carlotamdez96/TrabajoEquipoDocker/blob/main/Documentacion/DocumentacionProyecto.md)
 
+[Ejercicio 1 - Imágenes](https://github.com/carlotamdez96/TrabajoEquipoDocker/blob/main/Ejercicio%201%20-%20Imagenes/Ejercicio%20Imagenes.md)
+
 
 [Ejercicio 2 Almacenamiento](https://github.com/carlotamdez96/TrabajoEquipoDocker/blob/main/Ejercicio%202%20-%20Almacenamiento/Ejercicio%202%20Almacenamiento%20-%20Portainer.md)
 
