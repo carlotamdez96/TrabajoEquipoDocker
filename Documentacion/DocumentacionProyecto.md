@@ -1,5 +1,7 @@
 # TAREA DOCKER
 
+
+
 > Carlota Menéndez Álvarez
 >
 > Saúl Otero Melchor
@@ -174,7 +176,7 @@ Sexto día de la tarea y **último** , en esta ocasión solo tendremos una hora 
 **13:35-14:30**
 
 - [x] Finalizar documentación (Terminado) - Carlota
-- [ ] Ejercicio 1 Imágenes   - Raúl y Saúl
+- [x] Ejercicio 1 Imágenes   - Raúl y Saúl
 - [x] Redactar PDF de la entrega (Terminado) - Carlota
 - [x] Subida del documento a las aulas Virtuales
 
@@ -183,6 +185,20 @@ Sexto día de la tarea y **último** , en esta ocasión solo tendremos una hora 
 ## **Resultado Final**
 
 
+
+![image-20230213115257516](Imagenes/image-20230213115257516.png)
+
+
+
+**Opiniones de trabajo en Equipo**
+
+El trabajo inicialmente había sido repartido un poco a ojo por así decirlo, por lo que hubo problemas más adelante con el reparto, ya que hubo miembros que terminaban primero que otros. Creo que para preparar bien cada apartado con 2 horas de clase daba tiempo a leer la teoria bien, mirar ejercicios anteriores y realizar el ejercicio. 
+
+La mayor dificultar ha sido el ejericicio de Docker compose, y realizar el ejercicio 1 de imagenes dos veces por la avería del ordenador de Raúl.
+
+Valoraré el trabajo en equipo con un 6, ya que ha habido situaciones en las que se ha retrasado el trabajo colectivo.
+
+Lo mejor del trabajo en equipo ha sido poder ayudarnos entre nosotros y poder realizar cada uno una tarea, aunque todos hemos visto que han hecho el resto de los miembros del equipo.
 
 
 
